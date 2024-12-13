@@ -1,0 +1,37 @@
+[
+  {
+    "name": "HCS",
+    "portion-marking": "HCS",
+    "required-with": ["NOFORN"],
+    "prohibited-with": ["UNCLASSIFIED"],
+    "class-style": "style1"
+  },
+  {
+    "name": "COMINT",
+    "portion-marking": "SI",
+    "required-with": [""],
+    "prohibited-with": [""],
+    "class-style": "style1"
+  },
+  {
+    "name": "-GAMMA",
+    "portion-marking": "-G",
+    "required-with": ["TOP SECRET", "SI", "ORCON"],
+    "prohibited-with": [""],
+    "class-style": "style1"
+  },
+  {
+    "name": "-ECI",
+    "portion-marking": "ECI",
+    "required-with": ["TOP SECRET", "SI"],
+    "prohibited-with": [""],
+    "class-style": "style1"
+  },
+  {
+    "name": "TALENT KEYHOLE",
+    "portion-marking": "TK",
+    "required-with": [""],
+    "prohibited-with": ["UNCLASSIFIED", "CONFIDENTIAL"],
+    "class-style": "style1"
+  }
+]
